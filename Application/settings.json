@@ -1,0 +1,21 @@
+{
+  "NetworkName": "network",
+  "NetworkLayers": [10, 5, 3, 2, 1 ],
+  "InputLibrary": "InputLibrary.json",
+  "Epochs": 50000000,
+  "ID": "799596788be54dd8b81980440066142b",
+  "Secret": "323d8e38cb7b4a02b702d652e9c8546b",
+  "Callback": "http://localhost:8000/",
+  "ValidMetaData": [
+    "danceability",
+    "energy",
+    "speechiness",
+    "acousticness",
+    "instrumentalness",
+    "liveness",
+    "valence",
+    "key",
+    "mode",
+    "tempo"
+  ]
+}
